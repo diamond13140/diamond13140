@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diamond
 - 👀 I’m interested in Play with code
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email : sldnavin3@gmail.com
 - 📫 How to reach me ...
